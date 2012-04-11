@@ -16,6 +16,7 @@ color:#267C0E;
 
 a{
 font-size: 20px;
+margin: 20px;
 border-style:none; 
 color:aqua;
 }
