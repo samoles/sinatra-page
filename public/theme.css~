@@ -17,7 +17,7 @@ color:#267C0E;
 a{
 font-size: 20px;
 margin:50px;
-border-style:dotted; 
+border-style:none; 
 color:aqua;
 }
 .interests {
@@ -40,3 +40,7 @@ color:#7AD520;
  margin-right:10px;
 }
 
+body {
+  width: 80%;
+  margin-left: 10%;
+}
