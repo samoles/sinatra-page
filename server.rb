@@ -5,10 +5,10 @@ get '/' do
   erb :index
 end
 
-get '/page1' do
-  erb :page1
+get '/photography' do
+  erb :photography
 end
 
-get '/page2' do
-  erb :page2
+get '/film' do
+  erb :film
 end
