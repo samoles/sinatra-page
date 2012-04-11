@@ -6,7 +6,7 @@
   <body>
     <ul class="navigation">
 	    <li>
-            <a href="index">Home</a>
+            <a href="/">Home</a>
         </li>
         <li>
 		    <a href="/photography">Photography</a>
@@ -19,6 +19,10 @@
       <li>
          <a href="/contact">Contact</a>
       </li>
+      <li> 
+         <a href="/skills">Skills</a>
+      <li> 
+         <a href="/inspiration">Taking Inspiration</a>
     </ul>
     <%= yield %>
   </body>

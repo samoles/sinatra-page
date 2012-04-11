@@ -16,7 +16,6 @@ color:#267C0E;
 
 a{
 font-size: 20px;
-margin:50px;
 border-style:none; 
 color:aqua;
 }
@@ -37,10 +36,9 @@ color:#7AD520;
 
 .navigation li { 
  display: inline;
- margin-right:10px;
+ margin-right:5px;
 }
 
 body {
-  width: 80%;
-  margin-left: 10%;
+  text-align: center;
 }

@@ -21,3 +21,12 @@ get '/contact'do
   erb :contact
 end
 
+get '/skills'do
+  erb :skills
+end
+
+get '/inspiration'do
+  erb :inspiration
+end
+
+
