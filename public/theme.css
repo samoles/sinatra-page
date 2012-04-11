@@ -1,0 +1,31 @@
+
+body {
+background: #E28B28;
+color: white;
+}
+h1 {
+color:#7C240E;
+}
+h2 {
+color:yellow;
+font-weight: bold;
+}
+h3 {
+color:#267C0E;
+
+a{
+font-size: 20px;
+margin:50px;
+border-style:dotted; 
+color:aqua;
+}
+.interests {
+margin-top:50px;
+padding: 10px;
+}
+.interests a {
+padding: 20px;
+}
+.photo {
+color:#7AD520;
+}
