@@ -12,6 +12,7 @@ font-weight: bold;
 }
 h3 {
 color:#267C0E;
+}
 
 a{
 font-size: 20px;
@@ -34,5 +35,8 @@ color:#7AD520;
  list-style-type: none;
 }
 
-.navigation li {  }
+.navigation li { 
+ display: inline;
+ margin-right:10px;
+}
 

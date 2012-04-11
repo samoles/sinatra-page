@@ -12,11 +12,12 @@ font-weight: bold;
 }
 h3 {
 color:#267C0E;
+}
 
 a{
 font-size: 20px;
 margin:50px;
-border-style:dotted; 
+border-style:none; 
 color:aqua;
 }
 .interests {
