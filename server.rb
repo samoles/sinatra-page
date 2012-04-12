@@ -29,4 +29,9 @@ get '/inspiration'do
   erb :inspiration
 end
 
+get '/blog'do
+  erb :blog
+end
+
+
 
