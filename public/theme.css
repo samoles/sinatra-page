@@ -26,6 +26,7 @@ font-size: 25px;
 margin: 5px;
 border-style:none; 
 color:white;
+text-decoration: none;
 }
 .interests {
 margin-top:50px;
@@ -45,12 +46,25 @@ color:#989071;
 font-size: 30px
 }
 .navigation {
-font-family: 'Just Me Again Down Here', cursive;
+ font-family: 'Just Me Again Down Here', cursive;
  list-style-type: none;
+ margin-bottom: 2em;
 }
 
 .navigation li { 
  display: inline;
  margin-right:5px;
 }
-
+.email {
+color:yellow;
+font-size:35px;
+}
+.current {
+  color: yellow;
+  font-size:33px;
+}
+.uncomplete {
+  color: yellow; 
+  font-size: 60px; 
+}
+}

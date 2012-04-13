@@ -1,5 +1,11 @@
-  <iframe
-     src="http://samoles.tumblr.com/index.html"
+<script>
+  $(function() {
+    $('#home').addClass('current');
+  });
+</script>
+ 
+ <iframe
+     src="http://samoles.tumblr.com/archive/index.html"
 width=100%
 height=100%
   </iframe>

@@ -1,0 +1,10 @@
+<h1 class="uncomplete"> ...COMING SOON... </h1>
+<script>
+  $(function() {
+    $('#shop').addClass('current');
+  });
+</script>
+<img src="crash.jpg"height="300" width="300"/>
+<img src="buildings.jpg"height="300" width="300"/>
+<img src="norf.jpg"height="300" width="300"/>
+<img src="cam.jpg"height="300" width="300"/>

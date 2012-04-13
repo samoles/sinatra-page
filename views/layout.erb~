@@ -2,30 +2,35 @@
   <head>
     <title> Ella Samoles-Little </title>
     <link rel="stylesheet" href="theme.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"> </script>
+    <link href='http://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here' rel='stylesheet' type='text/css' />
   </head>
   <body>
 
-<link href='http://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here' rel='stylesheet' type='text/css'>
 
     <ul class="navigation">
 	    <li>
-            <a href="/">Home</a>
+            <a id="home" href="/">Home</a>
         </li>
+          <li> 
+             <a id="about" href="/about">About</a>
         <li>
-		    <a href="/photography">Photography</a>
-	    </li>
-      <li> 
-         <a href="/film">Film</a>
-      </li> 
+           <a id="photography" href="/photography">Photography</a>
+       </li>
        <li> 
-          <a href="/events">Events</a>
-      <li>
-         <a href="/contact">Contact/Skills</a>
+          <a id="film" href="/film">Film</a>
+       </li> 
+       <li> 
+          <a id="events"href="/events">Events</a>
+       <li>
+         <a id="contact" href="/contact">Contact/Skills</a>
+       </li>
+       <li> 
+         <a id="blog" href="/blog">BLOG</a>
+      <li> 
+         <a id="inspiration" href="/inspiration">Look around</a>
       </li>
-      <li> 
-         <a href="/blog">BLOG</a>
-      <li> 
-         <a href="/inspiration">Look around</a>
+      <li> <a id="shop" href="/shop">Shop</a>
     </ul>
     <%= yield %>
   </body>

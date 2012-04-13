@@ -1,1 +1,7 @@
-<h1> I like what you do </h1>
+<h1> I Like What You Do... </h1>
+<script>
+  $(function() {
+    $('#home').addClass('current');
+  });
+</script>
+

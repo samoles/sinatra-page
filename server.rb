@@ -37,6 +37,10 @@ get '/inspiration'do
   erb :inspiration
 end
 
+get '/shop' do
+  erb :shop
+end
+
 
 
 
