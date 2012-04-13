@@ -5,6 +5,10 @@ get '/' do
   erb :index
 end
 
+get '/about'do
+  erb :about
+end
+
 get '/photography' do
   erb :photography
 end
@@ -15,6 +19,10 @@ end
 
 get '/events'do
   erb :events
+end
+
+get '/blog'do
+  erb :blog
 end
 
 get '/contact'do
@@ -29,9 +37,7 @@ get '/inspiration'do
   erb :inspiration
 end
 
-get '/blog'do
-  erb :blog
-end
+
 
 
 
